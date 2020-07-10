@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m from Wu Han and currently working on Shang Hai
+- 🔭 I’m from Wu Han and currently working in Shang Hai
 - 🌱 I’m currently learning about kotlin JectPack
 - 💬 Talk with me about Android、Anime、WOW、HeartStone...
 - 😄 Pronouns: Leslie、Jacky Cheung
